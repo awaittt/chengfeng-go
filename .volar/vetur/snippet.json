@@ -1,0 +1,22 @@
+{
+    "Print Vue Component": {
+      "prefix": "vue3-component",
+      "body": [
+        "<template>",
+        "  <div>",
+        "    $0",
+        "  </div>",
+        "</template>",
+        "",
+        "<script setup lang=\"ts\">",
+        "  // Your script code here",
+        "</script>",
+        "",
+        "<style scoped lang=\"scss\">",
+        "  /* Your style code here */",
+        "</style>"
+      ],
+      "description": "Vue 3 Component"
+    }
+  }
+  
